@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+encoding//src/com/bjsxt/tq/MyTQ.java=UTF-8
+encoding//src/com/bjsxt/tq/TGroupComparator.java=UTF-8
+encoding//src/com/bjsxt/tq/TReducer.java=UTF-8
+encoding//src/com/bjsxt/tq/TSortComparator.java=UTF-8
+encoding//src/com/bjsxt/tq/Tmapper.java=UTF-8
+encoding//src/com/bjsxt/tq/Tpartioner.java=UTF-8
+encoding//src/com/bjsxt/tq/Tq.java=UTF-8
+encoding//src/com/sxt/bjsxt/fd/FMapper.java=UTF-8
+encoding//src/com/sxt/bjsxt/fd/FReducer.java=UTF-8
+encoding//src/com/sxt/hdfs/test/TestHdfs.java=UTF-8
+encoding//src/com/sxt/mr/wc/MyMapperClass.java=UTF-8
+encoding//src/com/sxt/mr/wc/MyReduceClass.java=UTF-8
